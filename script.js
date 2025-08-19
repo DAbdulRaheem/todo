@@ -16,4 +16,3 @@ function addToCart() {
       itemInput.value = ""; 
     }
   }
-  
